@@ -1,0 +1,18 @@
+{
+    "db-connections":{
+        "mongodb":{
+            "host":"cluster0.b8yfvlo.mongodb.net",
+            "user":"david",
+            "password":"XLJtC8pege2BCsDT",
+            "dbname":"AcademicDB"
+        }
+    }, 
+    "secretkeys":{
+        "cryptojs":"Tp8v0ih@0^0%"
+    },
+    "roles": {
+        "student": 1,
+        "teacher": 2
+    },
+    "server-port": 3000
+}
